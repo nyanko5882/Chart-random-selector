@@ -1,10 +1,22 @@
 <!doctype html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>ランダム課題曲</title>
-  </head>
-  <body>
-    
-  </body>
+    <head>
+        <meta charset="utf-8">
+        <title>ランダム課題曲</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="condition">
+            <h2 style="text-align: center;">絞り込み条件</h2>
+            <article id="condition-difficulty" class="condition-elements">
+                <input type="checkbox"><span class="condition-title">難易度指定</span>
+                <div>
+                    譜面定数: 
+                    <input type="number" min="0">以上
+                    <input type="number">以下
+                </div>
+            </article>
+        </div>
+        <script src="script.js"></script>
+    </body>
 </html>
