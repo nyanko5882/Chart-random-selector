@@ -9,12 +9,28 @@
         <div id="condition">
             <h2 style="text-align: center;">絞り込み条件</h2>
             <article id="condition-difficulty" class="condition-elements">
-                <input type="checkbox"><span class="condition-title">難易度指定</span>
-                <div>
-                    譜面定数: 
+                <input type="checkbox"><span class="condition-title">譜面定数</span>
+                <div> 
                     <input type="number" min="0">以上
                     <input type="number">以下
                 </div>
+            </article>
+            <article id="condition-difficultType" class="condition-elements">
+                <input type="checkbox"><span class="condition-title">難易度</span>
+                <div>
+                    <input name="condition-difficultType-check" type="checkbox"> PST
+                    <input name="condition-difficultType-check" type="checkbox"> PRS
+                    <input name="condition-difficultType-check" type="checkbox"> FTR
+                    <input name="condition-difficultType-check" type="checkbox"> BYD
+                    <input name="condition-difficultType-check" type="checkbox"> ETR
+                    <input name="condition-difficultType-check" type="checkbox"> INS
+                </div>
+            </article>
+            <article id="condition-packs" class="condition-elements">
+                <input type="checkbox"><span class="conditin-title">パック</span>
+                <select name="condition-packs" id="condition-packs-selector">
+                    
+                </select>
             </article>
         </div>
         <script src="script.js"></script>
