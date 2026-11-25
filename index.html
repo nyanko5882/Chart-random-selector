@@ -27,12 +27,18 @@
                 </div>
             </article>
             <article id="condition-packs" class="condition-elements">
-                <input type="checkbox"><span class="condition-title">パック</span>
-                <select name="condition-packs" id="condition-packs-selector">
-                    
-                </select>
+                <input type="checkbox"><span class="condition-title">パック</span> <!--buttonにして別タブにしてもいいかも-->
+            </article>
+            <article id="condition-removed" class="condition-elements">
+                <button id="removed-link">除外曲を設定する</button>
             </article>
         </div>
+        <main id="main">                
+            <h1 id="songtitle"><span id="songname"></span><img id="difficultType"><span id="difficulty"></span></h1>
+                 <!--imgはFTRとかの◆のロゴのやつ-->
+            <p>Composer: <span id="data-composer"></span></p>
+            <p>Pack: <span id="data-pack"></span></p>
+        </main>
         <script src="script.js"></script>
     </body>
 </html>
