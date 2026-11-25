@@ -1,0 +1,46 @@
+{
+  "id": "muse_dash_collaboration",
+  "name": "Muse Dash Collaboration",
+  "songs": [
+    {
+      "title": "Lights of Muse",
+      "composer": "Ayatsugu_Otowa",
+      "pack": "muse_dash_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Final Step!",
+      "composer": "Lime",
+      "pack": "muse_dash_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "秋の陽炎",
+      "composer": "karatoPαnchii feat. はるの",
+      "pack": "muse_dash_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Medusa",
+      "composer": "HiTECH NINJA",
+      "pack": "muse_dash_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    }
+  ]
+}

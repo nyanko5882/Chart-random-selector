@@ -1,0 +1,77 @@
+{
+  "id": "black_fate",
+  "name": "Black Fate",
+  "songs": [
+    {
+      "title": "Equilibrium",
+      "composer": "Maozon",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Antagonism",
+      "composer": "Yooh vs. siromaru",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Lost Desire",
+      "composer": "Powerless feat. Sennzai",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Dantalion",
+      "composer": "Team Grimoire",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "#1f1e33",
+      "composer": "かめりあ(EDP)",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "5",
+        "prs": "9",
+        "ftr": "11"
+      }
+    },
+    {
+      "title": "Tempestissimo",
+      "composer": "t+pazolite",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "7",
+        "prs": "9",
+        "ftr": "10+",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Arcahv",
+      "composer": "Feryquitous",
+      "pack": "black_fate",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    }
+  ]
+}

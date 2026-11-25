@@ -1,0 +1,685 @@
+{
+  "id": "arcaea",
+  "name": "Arcaea",
+  "songs": [
+    {
+      "title": "Sayonara Hatsukoi",
+      "composer": "REDSHiFT",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "7",
+        "etr": "8"
+      }
+    },
+    {
+      "title": "Fairytale",
+      "composer": "chitose",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "1",
+        "prs": "3",
+        "ftr": "7",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Vexaria",
+      "composer": "ak+q",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Rise",
+      "composer": "Combatplayer",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "4",
+        "ftr": "7+"
+      }
+    },
+    {
+      "title": "Lucifer",
+      "composer": "chitose",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Snow White",
+      "composer": "Puru",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Shades of Light in aTranscendent Realm",
+      "composer": "ak+q",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Babaroque",
+      "composer": "cYsmix",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Lost Civilization",
+      "composer": "Laur vs CK",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "GOODTEK (Arcaea Edit)",
+      "composer": "EBIMAYO",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "qualia -ideaesthesia-",
+      "composer": "nitro",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Dement ~after legend~",
+      "composer": "Cosmograph",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "7+",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Dandelion",
+      "composer": "Farhan",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Infinity Heaven",
+      "composer": "HyuN",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "1",
+        "prs": "5",
+        "ftr": "7+",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Anökumene",
+      "composer": "Jun Kuroda",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Brand new world",
+      "composer": "U-ske",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "4",
+        "ftr": "7+"
+      }
+    },
+    {
+      "title": "Chronostasis",
+      "composer": "黒皇帝",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "神奈川電脳暗渠",
+      "composer": "南ゆに",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "1",
+        "prs": "5",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "クロートーと星の観測者",
+      "composer": "しーけー",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "8+"
+      }
+    },
+    {
+      "title": "Ignotus",
+      "composer": "ak+q",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "ハルトピア ~Utopia of Spring~",
+      "composer": "A-zu-ra",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Rabbit In The Black Room",
+      "composer": "Rabbit House",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "One Last Drive",
+      "composer": "REDSHiFT",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Dreamin' Attraction!!",
+      "composer": "翡乃イスカ",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Red and Blue",
+      "composer": "Silentroom",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Reinvent",
+      "composer": "Sound Souler",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Syro",
+      "composer": "Mitomoro",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Blaster",
+      "composer": "Massive New Krew",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Cybernecia Catharsis",
+      "composer": "Tanchiky",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "inkar-usi",
+      "composer": "DIA",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "4",
+        "ftr": "7+",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Suomi",
+      "composer": "Aire",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "8+"
+      }
+    },
+    {
+      "title": "Bookmaker (2D Version)",
+      "composer": "Kobaryo",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "8",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "堕楽の園",
+      "composer": "gmtn. (witch's slave)",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Nhelv",
+      "composer": "Silentroom",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+",
+        "byd": "10+"
+      }
+    },
+    {
+      "title": "白道、多希望羊と信じありく。",
+      "composer": "Apo11o program ft. 大瀬良あい",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Purgatorium",
+      "composer": "お月さま交響曲",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Rugie",
+      "composer": "Feryquitous feat. Sennzai",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Grimheart",
+      "composer": "Puru",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "ReviXy",
+      "composer": "ikaruga_nex",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "VECTOЯ",
+      "composer": "WHITEFISTS",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "SUPERNOVA",
+      "composer": "BACO",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Diode",
+      "composer": "Kolaa",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "FREEF4LL",
+      "composer": "YUKIYANAGI",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "8",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Monochrome Princess",
+      "composer": "polysha",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Senkyou",
+      "composer": "MYTK",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "world.execute(me);",
+      "composer": "Mili",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Oblivia",
+      "composer": "Saiph",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Ävril -Flicka i krans-",
+      "composer": "Rigël Theatre",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Sakura Fubuki",
+      "composer": "Street",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "NULCTRL",
+      "composer": "Silentroom",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "DDD",
+      "composer": "はがね",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "ネコノテ・カリタガール",
+      "composer": "Ino(chronoize)",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "san skia",
+      "composer": "ユアミトス",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Altair (feat. *spiLa*)",
+      "composer": "kamome sano & you",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "無機質世界に彩を",
+      "composer": "MisomyL",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Trap Crow",
+      "composer": "Puru",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "だいあるのーと",
+      "composer": "七草くりむ",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Remind the Souls (Short Version)",
+      "composer": "Nhato",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "The Formula",
+      "composer": "Junk",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Jingle",
+      "composer": "DJ Noriken",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "エピクロスの虹はもう見えない",
+      "composer": "SYNC.ART'S feat.Misato",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7",
+        "etr": "8+"
+      }
+    },
+    {
+      "title": "SATISFACTION",
+      "composer": "P*Light & DJ Noriken feat. KMNZ",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "Dematerialized",
+      "composer": "In Love With A Ghost",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "7",
+        "etr": "8"
+      }
+    },
+    {
+      "title": "キャラメルポップコーンたべたいよ～",
+      "composer": "ヤミナベレコーズ feat. 繭糸",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "Renegade",
+      "composer": "Substantial, X.ARI, Jason Walsh",
+      "pack": "arcaea",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "9"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "rotaeno_collaboration",
+  "name": "Rotaeno Collaboration",
+  "songs": [
+    {
+      "title": "Waltz for Lorelei",
+      "composer": "Sobrem & 庭師",
+      "pack": "rotaeno_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Dual Doom Deathmatch",
+      "composer": "Kobaryo vs HyuN",
+      "pack": "rotaeno_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Inverted World",
+      "composer": "ARForest",
+      "pack": "rotaeno_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "MVURBD",
+      "composer": "ETIA.",
+      "pack": "rotaeno_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Vulcānus",
+      "composer": "Team Grimoire vs Aoi",
+      "pack": "rotaeno_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

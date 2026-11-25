@@ -1,0 +1,106 @@
+{
+  "id": "cytus_ii_collaboration",
+  "name": "Cytus II Collaboration",
+  "songs": [
+    {
+      "title": "Bullet Waiting for Me(James Landino remix)",
+      "composer": "Nikki Simmons",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "4",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Devillic Sphere",
+      "composer": "3R2",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Lucid Traveler",
+      "composer": "Akira Complex vs 3R2",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "CHAOS",
+      "composer": "Æsir",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "7",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Used to be",
+      "composer": "KIVΛ",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "syūten",
+      "composer": "Apo11o\"COLLAPSAR\"programft. 大瀬良あい",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "DRG",
+      "composer": "onoken",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "99 Glooms",
+      "composer": "Sta",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "͟͝͞Ⅱ́̕",
+      "composer": "Cytus",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Magnolia",
+      "composer": "M2U Vocal by Guriri",
+      "pack": "cytus_ii_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ambivalent_vision",
+  "name": "Ambivalent Vision",
+  "songs": [
+    {
+      "title": "Blossoms",
+      "composer": "T2Kazuya",
+      "pack": "ambivalent_vision",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "7"
+      }
+    },
+    {
+      "title": "vsキミ戦争",
+      "composer": "U-ske (feat. lueur)",
+      "pack": "ambivalent_vision",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "7+"
+      }
+    },
+    {
+      "title": "Moonheart",
+      "composer": "翡乃イスカ",
+      "pack": "ambivalent_vision",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Genesis",
+      "composer": "Iris",
+      "pack": "ambivalent_vision",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Lethaeus",
+      "composer": "Silentroom",
+      "pack": "ambivalent_vision",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "corps-sans-organes",
+      "composer": "cybermiso",
+      "pack": "ambivalent_vision",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    }
+  ]
+}

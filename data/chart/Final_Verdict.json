@@ -1,0 +1,102 @@
+{
+  "id": "final_verdict",
+  "name": "Final Verdict",
+  "songs": [
+    {
+      "title": "Defection",
+      "composer": "TeddyLoid feat. DELTA",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Infinite Strife,",
+      "composer": "BlackYooh vs. siromaru",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+",
+        "byd": "10+"
+      }
+    },
+    {
+      "title": "魔王",
+      "composer": "sasakure.UK × TJ.hangneil",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Pentiment",
+      "composer": "Nothing But Requiem with Museo",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "7",
+        "prs": "8+",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Arcana Eden",
+      "composer": "Team Grimoire vs Sakuzyo vs Laur",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Testify",
+      "composer": "void (Mournfinale) feat. 星熊南巫",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "7+",
+        "prs": "9",
+        "ftr": "10+",
+        "byd": "12"
+      }
+    },
+    {
+      "title": "Loveless Dress",
+      "composer": "かねこちはる",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Last",
+      "composer": "onoken",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Callima Karma",
+      "composer": "t+pazolite vs Feryquitous",
+      "pack": "final_verdict",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    }
+  ]
+}

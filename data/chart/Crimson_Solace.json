@@ -1,0 +1,67 @@
+{
+  "id": "crimson_solace",
+  "name": "Crimson Solace",
+  "songs": [
+    {
+      "title": "Paradise",
+      "composer": "Sound Souler",
+      "pack": "crimson_solace",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "7+"
+      }
+    },
+    {
+      "title": "Flashback",
+      "composer": "ARForest",
+      "pack": "crimson_solace",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "フライブルクとエンドロウル",
+      "composer": "アリスシャッハと魔法の楽団",
+      "pack": "crimson_solace",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Party Vinyl",
+      "composer": "モリモリあつし",
+      "pack": "crimson_solace",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Nirv lucE",
+      "composer": "しーけー",
+      "pack": "crimson_solace",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "GLORY：ROAD",
+      "composer": "uma vs. モリモリあつし",
+      "pack": "crimson_solace",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    }
+  ]
+}

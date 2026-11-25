@@ -1,0 +1,213 @@
+{
+  "id": "extend_archive_3_illusions",
+  "name": "Extend Archive 3: Illusions",
+  "songs": [
+    {
+      "title": "HELLOHELL",
+      "composer": "暁Records",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "〇、",
+      "composer": "Kolaa & 熊子",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Awaken In Ruins",
+      "composer": "Supa7onyz",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "MORNINGLOOM",
+      "composer": "saaa",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Lethal Voltage",
+      "composer": "siqlo",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Leave All Behind",
+      "composer": "rider",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Old School Salvage",
+      "composer": "DJ SHARPNEL",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "ディストーション・ニンゲン",
+      "composer": "DJ Myosuke & KAJI",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "epitaxy",
+      "composer": "Camellia",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "Hailstone",
+      "composer": "Kazki Misora",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "フレテミタイ",
+      "composer": "みきとP",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "プレヤ",
+      "composer": "qfeileadh&レゾナンスもえこ",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "astral.exe",
+      "composer": "Synzak & Laxeno57",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Black Mirror on the Wall",
+      "composer": "暁Records",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "TRPNO",
+      "composer": "Nauts",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "τ (tau)",
+      "composer": "Wooden",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Won't Back Down",
+      "composer": "Pure 100% / KASA",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Someday",
+      "composer": "NieN",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "disintegration",
+      "composer": "ひゅ～ぶ",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "ROST PAGE GENE",
+      "composer": "MYUKKE.",
+      "pack": "extend_archive_3_illusions",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    }
+  ]
+}

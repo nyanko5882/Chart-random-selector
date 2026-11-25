@@ -1,0 +1,114 @@
+{
+  "id": "extant_anima",
+  "name": "Extant Anima",
+  "songs": [
+    {
+      "title": "See the Lights!",
+      "composer": "polysha feat. しろさきあや",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "朱月ノ姫",
+      "composer": "technoplanet feat. 夕月ティア",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Dual Dependency",
+      "composer": "seatrus",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Lilly",
+      "composer": "Juggernaut.",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "多次元宇宙融合論",
+      "composer": "TAKIO feat. つぐ",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "6",
+        "prs": "8+",
+        "ftr": "10",
+        "etr": "11"
+      }
+    },
+    {
+      "title": "Factorder",
+      "composer": "瀬名 feat. 梨雛",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "incomplete the one",
+      "composer": "Halv feat.Kuroa*",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "CHAOSBLAST",
+      "composer": "QURELESS + 柚子花",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Welcome, Queen of Fiction.",
+      "composer": "打打だいず",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "AlterGate",
+      "composer": "MisoilePunch♪ ~タケノコ添え~",
+      "pack": "extant_anima",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

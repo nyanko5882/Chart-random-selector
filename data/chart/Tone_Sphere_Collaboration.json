@@ -1,0 +1,56 @@
+{
+  "id": "tone_sphere_collaboration",
+  "name": "Tone Sphere Collaboration",
+  "songs": [
+    {
+      "title": "光",
+      "composer": "THB",
+      "pack": "tone_sphere_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Hall of Mirrors",
+      "composer": "Sta",
+      "pack": "tone_sphere_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "STAGER (ALL STAGE CLEAR)",
+      "composer": "Ras",
+      "pack": "tone_sphere_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Linear Accelerator",
+      "composer": "THE SHAFT",
+      "pack": "tone_sphere_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Tiferet",
+      "composer": "xi + Sta",
+      "pack": "tone_sphere_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    }
+  ]
+}

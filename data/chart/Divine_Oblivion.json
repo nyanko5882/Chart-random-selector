@@ -1,0 +1,92 @@
+{
+  "id": "divine_oblivion",
+  "name": "Divine Oblivion",
+  "songs": [
+    {
+      "title": "Balor",
+      "composer": "Redsign",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "DREAD AREA",
+      "composer": "Ashrount vs. 打打だいず",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "un",
+      "composer": "黒魔",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "Riven Pilgrimage",
+      "composer": "rejection & Supire feat. eili",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Cataclysm Cry",
+      "composer": "Aid",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "6",
+        "prs": "8+",
+        "ftr": "10",
+        "byd": "11+"
+      }
+    },
+    {
+      "title": "DEINOS PHAINEIN",
+      "composer": "Blacklolita vs Juggernaut.",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "7",
+        "prs": "9",
+        "ftr": "10+",
+        "byd": "12"
+      }
+    },
+    {
+      "title": "Ember",
+      "composer": "Powerless & siqlo feat. Tia",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "⊥⊬",
+      "composer": "Silentroom DismantledXOR かたぎり",
+      "pack": "divine_oblivion",
+      "difficulty": {
+        "pst": "6",
+        "prs": "9",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

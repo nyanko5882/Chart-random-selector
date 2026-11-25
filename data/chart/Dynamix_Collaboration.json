@@ -1,0 +1,56 @@
+{
+  "id": "dynamix_collaboration",
+  "name": "Dynamix Collaboration",
+  "songs": [
+    {
+      "title": "Moonlight of Sand Castle",
+      "composer": "旅人E",
+      "pack": "dynamix_collaboration",
+      "difficulty": {
+        "pst": "1",
+        "prs": "5",
+        "ftr": "7+"
+      }
+    },
+    {
+      "title": "REconstruction",
+      "composer": "Ryazan",
+      "pack": "dynamix_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Evoltex (poppi'n mix)",
+      "composer": "Arch vs n3pu",
+      "pack": "dynamix_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Oracle",
+      "composer": "TQ☆",
+      "pack": "dynamix_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "αterlβus",
+      "composer": "Aoi",
+      "pack": "dynamix_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    }
+  ]
+}

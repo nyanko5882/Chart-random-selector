@@ -1,0 +1,69 @@
+{
+  "id": "adverse_prelude",
+  "name": "Adverse Prelude",
+  "songs": [
+    {
+      "title": "Saint or Sinner",
+      "composer": "crayvxn",
+      "pack": "adverse_prelude",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Vindication",
+      "composer": "Laur",
+      "pack": "adverse_prelude",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Heavensdoor",
+      "composer": "LeaF",
+      "pack": "adverse_prelude",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+",
+        "byd": "10+"
+      }
+    },
+    {
+      "title": "Ringed Genesis",
+      "composer": "Edelritter",
+      "pack": "adverse_prelude",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "BLRINK",
+      "composer": "Sta",
+      "pack": "adverse_prelude",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Particle Arts",
+      "composer": "Virtual Self",
+      "pack": "adverse_prelude",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+"
+      },
+      "removed": true
+    }
+  ]
+}

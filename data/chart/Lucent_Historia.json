@@ -1,0 +1,81 @@
+{
+  "id": "lucent_historia",
+  "name": "Lucent Historia",
+  "songs": [
+    {
+      "title": "Swan Song",
+      "composer": "void (Mournfinale)",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Renegade",
+      "composer": "sky_delta",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Rays of Remnant",
+      "composer": "May × Felysrator",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Breach of Faith",
+      "composer": "Supire feat.eili",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10",
+        "byd": "10+"
+      }
+    },
+    {
+      "title": "Lament Rain",
+      "composer": "Ashrount vs. 打打だいず",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "6",
+        "prs": "8+",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Designant.",
+      "composer": "Designant",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "7",
+        "prs": "9",
+        "ftr": "10+",
+        "byd": "11+"
+      }
+    },
+    {
+      "title": "Astral Quantization",
+      "composer": "Dj Grimoire",
+      "pack": "lucent_historia",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    }
+  ]
+}

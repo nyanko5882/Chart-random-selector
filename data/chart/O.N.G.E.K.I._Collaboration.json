@@ -1,0 +1,138 @@
+{
+  "id": "o_n_g_e_k_i_collaboration",
+  "name": "O.N.G.E.K.I. Collaboration",
+  "songs": [
+    {
+      "title": "Lazy Addiction",
+      "composer": "sky_delta",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Dazzle hop",
+      "composer": "Sampling Masters MEGA",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Viyella's Tears",
+      "composer": "Laur",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "ω4",
+      "composer": "穴山大輔 VS 光吉猛修 VS Kai",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7+",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "心",
+      "composer": "削除 (Violin : Katali)",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "1",
+        "prs": "5",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Ai Drew",
+      "composer": "Feryquitous",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "FLUFFY FLASH",
+      "composer": "Kobaryo",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Good bye, Merry-Go-Round.",
+      "composer": "Yooh",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "LAMIA",
+      "composer": "BlackY",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "11"
+      }
+    },
+    {
+      "title": "LiftOff",
+      "composer": "MAYA AKAI",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "SUPER AMBULANCE",
+      "composer": "AJURIKA",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Don't Fight The Music",
+      "composer": "黒魔",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "And Revive The Melody",
+      "composer": "黒魔",
+      "pack": "o_n_g_e_k_i_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

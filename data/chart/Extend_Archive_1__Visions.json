@@ -1,0 +1,209 @@
+{
+  "id": "extend_archive_1_visions",
+  "name": "Extend Archive 1: Visions",
+  "songs": [
+    {
+      "title": "Vivid Theory",
+      "composer": "ak+q",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "1F√",
+      "composer": "WHITEFISTS",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Gekka (Short Version)",
+      "composer": "Nhato",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Give Me a Nightmare",
+      "composer": "アリスシャッハと魔法の楽団",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Black Lotus",
+      "composer": "wa.",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Faint Light (Arcaea Edit)",
+      "composer": "Taishi",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "CROSS†OVER",
+      "composer": "HyuN feat. LyuU",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Lapis",
+      "composer": "SHIKI",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Purple Verse",
+      "composer": "Hommarju",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Glow",
+      "composer": "SPACELECTRO",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "enchanted love",
+      "composer": "linear ring",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "4",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "竹",
+      "composer": "立秋 feat. ちょこ",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Life is PIANO",
+      "composer": "Junk",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Vandalism",
+      "composer": "Ashrount",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Turbocharger",
+      "composer": "A/I",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "狂言綺語",
+      "composer": "影虎。& ikaruga_nex",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "HIVEMIND",
+      "composer": "かたぎり",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "blue comet",
+      "composer": "ああああ",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "ENERGY SYNERGY MATRIX",
+      "composer": "Tanchiky",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "G e n g a o z o",
+      "composer": "-45",
+      "pack": "extend_archive_1_visions",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10"
+      }
+    }
+  ]
+}

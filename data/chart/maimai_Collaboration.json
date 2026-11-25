@@ -1,0 +1,129 @@
+{
+  "id": "maimai_collaboration",
+  "name": "maimai Collaboration",
+  "songs": [
+    {
+      "title": "四月の雨",
+      "composer": "cubesato",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "7thSense",
+      "composer": "削除",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Oshama Scramble!",
+      "composer": "t+pazolite",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "AMAZING MIGHTYYYY!!!!",
+      "composer": "WAiKURO",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "CYCLES",
+      "composer": "Masayoshi Minoshima feat. 綾倉盟",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "MAXRAGE",
+      "composer": "EBIMAYO",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "[X]",
+      "composer": "Blacklolita",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "TEmPTaTiON",
+      "composer": "かねこちはる",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "BREaK! BREaK! BREaK!",
+      "composer": "HiTECH NINJA vs Cranky",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Straight into the lights",
+      "composer": "Cosmograph",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "ViRTUS",
+      "composer": "Hiro",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "ヨミビトシラズ",
+      "composer": "Limonène (サノカモメ+月島春果)",
+      "pack": "maimai_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "9+"
+      }
+    }
+  ]
+}

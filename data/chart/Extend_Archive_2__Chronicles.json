@@ -1,0 +1,206 @@
+{
+  "id": "extend_archive_2_chronicles",
+  "name": "Extend Archive 2: Chronicles",
+  "songs": [
+    {
+      "title": "月に叢雲華に風",
+      "composer": "幽閉サテライト",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "MANTIS(Arcaea Ultra-Bloodrush VIP)",
+      "composer": "Akira Complex feat. kiraku",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "World Fragments III(radio edit)",
+      "composer": "xi",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Astra walkthrough",
+      "composer": "paraoka",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Chronicle",
+      "composer": "Lime",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Let's Rock (Arcaea mix)",
+      "composer": "ikaruga_nex vs FALCHiON",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Lost Emotion feat. nomico",
+      "composer": "Masayoshi Minoshima(ALR)",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "GIMMICK",
+      "composer": "Ms.Sill",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "無法地点",
+      "composer": "La prière",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "ヒュブリスの頂に聳えるのは",
+      "composer": "qfeileadh feat.のあ",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Ultimate taste",
+      "composer": "ぱらどっと",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "RGB",
+      "composer": "MEMODEMO X AQUASINE",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "感情の摩天楼 ～Arr.Demetori",
+      "composer": "Demetori",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Dynitikós",
+      "composer": "Prower",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "雨神楽",
+      "composer": "荒谷サトル",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "FANTA5Y",
+      "composer": "Moon Jelly & YUKIYANAGI",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "アローンアンドローン",
+      "composer": "Ponchi♪ feat. はぁち",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "felys final remix",
+      "composer": "onoken",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "On And On!! feat. Jenga",
+      "composer": "ETIA.",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Aleph-0",
+      "composer": "LeaF",
+      "pack": "extend_archive_2_chronicles",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "groove_coaster_collaboration",
+  "name": "Groove Coaster Collaboration",
+  "songs": [
+    {
+      "title": "MERLIN",
+      "composer": "REDALiCE",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8+",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "DX超性能フルメタル少女",
+      "composer": "IOSYS TRAX(uno with.ちよこ)",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "OMAKENO Stroke",
+      "composer": "t+pazolite",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Scarlet Lance",
+      "composer": "MASAKI (ZUNTATA)",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "ouroboros-twin stroke of the end-",
+      "composer": "Cranky VS MASAKI",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Got hive of Ra",
+      "composer": "E.G.G.",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Sign of \"10.5km\"",
+      "composer": "渡部恭久",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "10pt8ion",
+      "composer": "Lite Show Magic",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Black MInD",
+      "composer": "COSIO",
+      "pack": "groove_coaster_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

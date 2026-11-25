@@ -1,0 +1,94 @@
+{
+  "id": "undertale",
+  "name": "UNDERTALE",
+  "songs": [
+    {
+      "title": "心の痛み",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "1",
+        "prs": "4",
+        "ftr": "7",
+        "etr": "8+"
+      }
+    },
+    {
+      "title": "華麗なる死闘",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "最高の悪夢",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "これでホントにサヨナラ",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "MEGALOVANIA",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "スパイダーダンス",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "正義の槍",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "アズゴア",
+      "composer": "Toby Fox",
+      "pack": "undertale",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    }
+  ]
+}

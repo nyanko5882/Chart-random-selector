@@ -1,0 +1,58 @@
+{
+  "id": "absolute_nihil",
+  "name": "Absolute Nihil",
+  "songs": [
+    {
+      "title": "In Vain",
+      "composer": "ryhki",
+      "pack": "absolute_nihil",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Hypnotize",
+      "composer": "rejection",
+      "pack": "absolute_nihil",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Ashen 6oundary",
+      "composer": "YUKIYANAGI",
+      "pack": "absolute_nihil",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Judgement",
+      "composer": "Tatsunoshin",
+      "pack": "absolute_nihil",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "ALTER EGO",
+      "composer": "Yuta Imai vs Qlarabelle",
+      "pack": "absolute_nihil",
+      "difficulty": {
+        "pst": "6",
+        "prs": "9",
+        "ftr": "10",
+        "etr": "11"
+      }
+    }
+  ]
+}

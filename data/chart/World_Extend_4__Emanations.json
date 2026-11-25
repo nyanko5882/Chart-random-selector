@@ -1,0 +1,184 @@
+{
+  "id": "world_extend_4_emanations",
+  "name": "World Extend 4: Emanations",
+  "songs": [
+    {
+      "title": "始マリノ詩",
+      "composer": "有村京悟 feat. July",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7",
+        "etr": "8+"
+      }
+    },
+    {
+      "title": "mod",
+      "composer": "kalsoer",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Particle",
+      "composer": "Lime / Kankitsu",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Paradox Palette",
+      "composer": "Aethoro",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Xxium and Purple haze",
+      "composer": "D.watt",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7+",
+        "ftr": "9+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "taboo tears you up 2017",
+      "composer": "REDALiCE",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "undefined",
+      "composer": "planless & 乃花こより",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "~_+",
+      "composer": "AQUASINE ~ MEMODEMO+ METAROOM",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "おまじない",
+      "composer": "Tsubusare BOZZ × Madoka*",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "森奥虚跡",
+      "composer": "ShiBa",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "3rd Avenue",
+      "composer": "Sound Souler",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "3",
+        "prs": "8",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Vallista",
+      "composer": "Sakuzyo",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "MIRROR - kamome sano remix",
+      "composer": "kamome sano",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Riot in the System",
+      "composer": "Laur & Massive New Krewfeat. 社築",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "flexidefine",
+      "composer": "Lamanya",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Cosmogyral",
+      "composer": "Darren + Altermis",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Voyage to the Future",
+      "composer": "Shunji Fujii feat. 千花",
+      "pack": "world_extend_4_emanations",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "9"
+      }
+    }
+  ]
+}

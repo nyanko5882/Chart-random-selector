@@ -1,6 +1,98 @@
 {
-    "pack": "Eternal Core",
-    "data": [
-        
-    ]
+  "id": "eternal_core",
+  "name": "Eternal Core",
+  "songs": [
+    {
+      "title": "cry of viyella",
+      "composer": "Laur",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "I've heard it said",
+      "composer": "Combatplayer",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "memoryfactory.lzh",
+      "composer": "Frums",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Relentless",
+      "composer": "Akira Complex",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Lumia",
+      "composer": "sky_delta",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Essence of Twilight",
+      "composer": "ak+q",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "PRAGMATISM",
+      "composer": "Laur",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Sheriruth",
+      "composer": "Team Grimoire",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "5",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "虚空の夢",
+      "composer": "ak+q feat. Sennzai",
+      "pack": "eternal_core",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "8+"
+      }
+    }
+  ]
 }

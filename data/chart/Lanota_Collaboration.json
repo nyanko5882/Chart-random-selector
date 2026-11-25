@@ -1,0 +1,86 @@
+{
+  "id": "lanota_collaboration",
+  "name": "Lanota Collaboration",
+  "songs": [
+    {
+      "title": "Dream goes on",
+      "composer": "Tiny Minim",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "1",
+        "prs": "5",
+        "ftr": "7+"
+      }
+    },
+    {
+      "title": "Journey",
+      "composer": "ARForest",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Specta",
+      "composer": "Junk",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Quon",
+      "composer": "Feryquitous",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "cyanine",
+      "composer": "jioyi",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Prism",
+      "composer": "bermei.inazawa ft. Chata",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Protoflicker",
+      "composer": "Silentroom",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Stasis",
+      "composer": "Maozon",
+      "pack": "lanota_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

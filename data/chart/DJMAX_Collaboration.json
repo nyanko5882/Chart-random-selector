@@ -1,0 +1,113 @@
+{
+  "id": "djmax_collaboration",
+  "name": "DJMAX Collaboration",
+  "songs": [
+    {
+      "title": "Ladymade Star",
+      "composer": "ESTi",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "End of The Moonlight",
+      "composer": "Forte Escape",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "U.A.D",
+      "composer": "HAYAKO",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "OBLIVION",
+      "composer": "ESTi",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Nightmare",
+      "composer": "M2U",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "I want You",
+      "composer": "Lin-G",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "Syriana",
+      "composer": "BEXTER",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Liar",
+      "composer": "zts",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "BlythE",
+      "composer": "M2U",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "We're All Gonna Die",
+      "composer": "Paul Bazooka",
+      "pack": "djmax_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10",
+        "etr": "10+"
+      }
+    }
+  ]
+}

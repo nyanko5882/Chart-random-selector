@@ -1,0 +1,127 @@
+{
+  "id": "esoteric_order",
+  "name": "Esoteric Order",
+  "songs": [
+    {
+      "title": "Paper Witch",
+      "composer": "Yu-dachi",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Crystal Gravity",
+      "composer": "Tanchiky vs. siromaru",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Far Away Light",
+      "composer": "technoplanetfeat. はるの&黒沢ダイスケ",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Löschen",
+      "composer": "BlackY feat. Risa Yuzuki",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Aegleseeker",
+      "composer": "Silentroom vs Frums",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "5",
+        "prs": "9",
+        "ftr": "11"
+      }
+    },
+    {
+      "title": "Seclusion",
+      "composer": "Laur feat. Sennzai",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Coastal Highway",
+      "composer": "Glitch Droids",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "ΟΔΥΣΣΕΙΑ",
+      "composer": "Sober Bear",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Overwhelm",
+      "composer": "xi",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Small Cloud Sugar Candy",
+      "composer": "テヅカ × Aoi feat.桃雛なの",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "AlterAle",
+      "composer": "Arik Kau Delay(アラ&かゆき&でり)",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "光速神授説- Divine Light of Myriad -",
+      "composer": "yoho",
+      "pack": "esoteric_order",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

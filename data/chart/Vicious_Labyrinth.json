@@ -1,0 +1,68 @@
+{
+  "id": "vicious_labyrinth",
+  "name": "Vicious Labyrinth",
+  "songs": [
+    {
+      "title": "Iconoclast",
+      "composer": "Yamajet",
+      "pack": "vicious_labyrinth",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "SOUNDWiTCH",
+      "composer": "HATE",
+      "pack": "vicious_labyrinth",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "妖艶魔女 -trappola bewitching-",
+      "composer": "gmtn.",
+      "pack": "vicious_labyrinth",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "conflict",
+      "composer": "siromaru + cranky",
+      "pack": "vicious_labyrinth",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Axium Crisis",
+      "composer": "ak+q",
+      "pack": "vicious_labyrinth",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Grievous Lady",
+      "composer": "Team Grimoire vs Laur",
+      "pack": "vicious_labyrinth",
+      "difficulty": {
+        "pst": "6",
+        "prs": "9",
+        "ftr": "11"
+      }
+    }
+  ]
+}

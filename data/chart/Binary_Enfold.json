@@ -1,0 +1,88 @@
+{
+  "id": "binary_enfold",
+  "name": "Binary Enfold",
+  "songs": [
+    {
+      "title": "next to you",
+      "composer": "uma feat. 橘花音",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "8+",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Silent Rush",
+      "composer": "Soleily",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Strongholds",
+      "composer": "Yooh",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Memory Forest",
+      "composer": "ETIA.",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Singularity",
+      "composer": "ETIA.",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Cosmica",
+      "composer": "Nhato",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Ascent",
+      "composer": "TANUKI",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Live Fast Die Young",
+      "composer": "anubasu-anubasu",
+      "pack": "binary_enfold",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10"
+      }
+    }
+  ]
+}

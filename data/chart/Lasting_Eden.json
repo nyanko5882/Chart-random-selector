@@ -1,0 +1,136 @@
+{
+  "id": "lasting_eden",
+  "name": "Lasting Eden",
+  "songs": [
+    {
+      "title": "WAIT FOR DAWN",
+      "composer": "U-ske feat. 棗いつき",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7+",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "レイヴンズ・プライド",
+      "composer": "みーに feat. はらもりよしな",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Rise of the World",
+      "composer": "cosMo@暴走P",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "UNKNOWN LEVELS",
+      "composer": "Yuta Imai",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Abstruse Dilemma",
+      "composer": "Ashrount vs. 打打だいず",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "11"
+      }
+    },
+    {
+      "title": "Primeval Texture",
+      "composer": "くるぶっこちゃん",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Technicolour",
+      "composer": "Maozon",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Logos",
+      "composer": "polysha feat. 高城みよ",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Ego Eimi",
+      "composer": "BlackY feat. Risa Yuzuki",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Arghena",
+      "composer": "Feryquitous vs Laur",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "7",
+        "prs": "9",
+        "ftr": "11"
+      }
+    },
+    {
+      "title": "Transient Space",
+      "composer": "sleepless, Gardens, aspect",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Nameless Passion",
+      "composer": "天束 feat.Sennzai",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "TeraVolt",
+      "composer": "Katali",
+      "pack": "lasting_eden",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

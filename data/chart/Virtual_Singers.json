@@ -1,0 +1,61 @@
+{
+  "id": "virtual_singers",
+  "name": "Virtual Singers",
+  "songs": [
+    {
+      "title": "ラヴィ",
+      "composer": "すりぃ",
+      "pack": "virtual_singers",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "神っぽいな",
+      "composer": "ピノキオピー",
+      "pack": "virtual_singers",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "オーバーライド",
+      "composer": "吉田夜世",
+      "pack": "virtual_singers",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "テレパシ",
+      "composer": "DECO*27",
+      "pack": "virtual_singers",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "愛して愛して愛して",
+      "composer": "きくお",
+      "pack": "virtual_singers",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    }
+  ]
+}

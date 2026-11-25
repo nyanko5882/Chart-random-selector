@@ -1,0 +1,66 @@
+{
+  "id": "luminous_sky",
+  "name": "Luminous Sky",
+  "songs": [
+    {
+      "title": "九番目の迷路",
+      "composer": "アリスシャッハと魔法の楽団",
+      "pack": "luminous_sky",
+      "difficulty": {
+        "pst": "3",
+        "prs": "3",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "The Message",
+      "composer": "Jun Kuroda",
+      "pack": "luminous_sky",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Sulfur",
+      "composer": "ぺのれり",
+      "pack": "luminous_sky",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Halcyon",
+      "composer": "xi",
+      "pack": "luminous_sky",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Ether Strike",
+      "composer": "Akira Complex",
+      "pack": "luminous_sky",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Fracture Ray",
+      "composer": "Sakuzyo",
+      "pack": "luminous_sky",
+      "difficulty": {
+        "pst": "6",
+        "prs": "9",
+        "ftr": "11"
+      }
+    }
+  ]
+}

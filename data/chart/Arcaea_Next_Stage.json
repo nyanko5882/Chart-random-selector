@@ -1,0 +1,72 @@
+{
+  "id": "arcaea_next_stage",
+  "name": "Arcaea Next Stage",
+  "songs": [
+    {
+      "title": "INFINITE DIMENSION",
+      "composer": "DJ Noriken × P*Light",
+      "pack": "arcaea_next_stage",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "INCARNATOR₀₀",
+      "composer": "Silentroom × N²",
+      "pack": "arcaea_next_stage",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "zephyrlasting",
+      "composer": "s-don × nitro (lowiro)",
+      "pack": "arcaea_next_stage",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "MARENYX",
+      "composer": "BlackY × Aoi",
+      "pack": "arcaea_next_stage",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "Code: Oblivion",
+      "composer": "Kobaryo × Gram",
+      "pack": "arcaea_next_stage",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "ΛZΛLEΛ",
+      "composer": "ak+q × onoken",
+      "pack": "arcaea_next_stage",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    }
+  ]
+}

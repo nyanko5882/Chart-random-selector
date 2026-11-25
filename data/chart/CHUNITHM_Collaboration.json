@@ -1,0 +1,170 @@
+{
+  "id": "chunithm_collaboration",
+  "name": "CHUNITHM Collaboration",
+  "songs": [
+    {
+      "title": "Garakuta Doll Play",
+      "composer": "t+pazolite",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "怒槌",
+      "composer": "光吉猛修",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "World Vanquisher",
+      "composer": "void (Mournfinale)",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Climax",
+      "composer": "USAO",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Last Celebration",
+      "composer": "Laur vs CK",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "業 -善なる神とこの世の悪について-",
+      "composer": "光吉猛修 VS 穴山大輔",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "コスモポップファンクラブ",
+      "composer": "ナユタン星人",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "IMPACT",
+      "composer": "USAO feat. 光吉猛修",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7+",
+        "ftr": "9",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "Genesis",
+      "composer": "Morrigan feat.Lily",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Trrricksters!!",
+      "composer": "s-don vs. 翡乃イスカ",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "蜘蛛の糸",
+      "composer": "きくお×cosMo＠暴走P feat.影縫英",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Ignition",
+      "composer": "パソコン音楽クラブ",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "BlazinG AIR",
+      "composer": "kanone",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "8-EM",
+      "composer": "Sampling Masters AYA",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "DA'AT -The First Seeker of Souls-",
+      "composer": "水野健治 VS 大国奏音",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Aether Crest: Astral",
+      "composer": "void (Mournfinale) × 水野健治",
+      "pack": "chunithm_collaboration",
+      "difficulty": {
+        "pst": "6",
+        "prs": "8+",
+        "ftr": "10",
+        "etr": "11"
+      }
+    }
+  ]
+}

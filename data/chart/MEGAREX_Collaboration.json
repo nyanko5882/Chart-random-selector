@@ -1,0 +1,60 @@
+{
+  "id": "megarex_collaboration",
+  "name": "MEGAREX Collaboration",
+  "songs": [
+    {
+      "title": "CHAIN2NITE",
+      "composer": "asuzora feat. cyber milk ちゃん",
+      "pack": "megarex_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "One Step Closer",
+      "composer": "Mameyudoufu × 藍月なくる",
+      "pack": "megarex_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "My life is mine alone!",
+      "composer": "Mylta feat. ねんね",
+      "pack": "megarex_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "メルティーラプソディー",
+      "composer": "lapix feat. PANXI",
+      "pack": "megarex_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Signal",
+      "composer": "rejection feat. Such",
+      "pack": "megarex_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    }
+  ]
+}

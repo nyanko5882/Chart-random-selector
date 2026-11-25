@@ -1,0 +1,61 @@
+{
+  "id": "diverse_system_collaboration",
+  "name": "Diverse System Collaboration",
+  "songs": [
+    {
+      "title": "蘭",
+      "composer": "Feryquitous",
+      "pack": "diverse_system_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Ether Drive",
+      "composer": "crayvxn",
+      "pack": "diverse_system_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Schra Go (Uchina Time)",
+      "composer": "REMO-CON",
+      "pack": "diverse_system_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Fatality",
+      "composer": "Renpul",
+      "pack": "diverse_system_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Parallax",
+      "composer": "xi vs ak+q (lowiro)",
+      "pack": "diverse_system_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "9+",
+        "etr": "11"
+      }
+    }
+  ]
+}

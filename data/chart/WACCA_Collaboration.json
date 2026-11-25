@@ -1,0 +1,107 @@
+{
+  "id": "wacca_collaboration",
+  "name": "WACCA Collaboration",
+  "songs": [
+    {
+      "title": "Quon",
+      "composer": "DJ Noriken",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8+",
+        "byd": "10"
+      }
+    },
+    {
+      "title": "with U",
+      "composer": "t+pazolite & Massive New Krewfeat. リリィ(CV:青木志貴)",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Let you DIVE! (nitro rmx)",
+      "composer": "nitro",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Mazy Metroplex",
+      "composer": "aran",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7+",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "GENOCIDER",
+      "composer": "DJ Myosuke",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8+",
+        "ftr": "10+"
+      }
+    },
+    {
+      "title": "Stratoliner",
+      "composer": "C-Show",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Ouvertüre",
+      "composer": "USAO & DJ Genkifeat. ルーン(CV:河瀬茉希)",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "XTREME",
+      "composer": "USAO",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "eden",
+      "composer": "\"漆黒\"の堕天使《Gram》†Versus†\"聖刻\"の熾天使《Gram》",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "8",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Meta-Mysteria",
+      "composer": "DJ Noriken",
+      "pack": "wacca_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "7+",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

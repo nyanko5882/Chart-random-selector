@@ -1,0 +1,87 @@
+{
+  "id": "ephemeral_page",
+  "name": "Ephemeral Page",
+  "songs": [
+    {
+      "title": "Alice à la mode",
+      "composer": "Masanori Akita",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Eccentric Tale",
+      "composer": "Yamajet",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8",
+        "byd": "9+"
+      }
+    },
+    {
+      "title": "Alice's Suitcase",
+      "composer": "Endorfin.",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Jump",
+      "composer": "Rasmus Faber",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "4",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Felis",
+      "composer": "M2U",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "Beside You",
+      "composer": "江口孝宏",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "Heart Jackin'",
+      "composer": "Yu_Asahina",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "アリス・リデルに捧ぐ",
+      "composer": "モリモリあつし",
+      "pack": "ephemeral_page",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    }
+  ]
+}

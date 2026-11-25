@@ -1,0 +1,60 @@
+{
+  "id": "liminal_eclipse",
+  "name": "Liminal Eclipse",
+  "songs": [
+    {
+      "title": "Viola Illyria",
+      "composer": "Kolaa",
+      "pack": "liminal_eclipse",
+      "difficulty": {
+        "pst": "2",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Vainspire",
+      "composer": "satella",
+      "pack": "liminal_eclipse",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "No Way Back",
+      "composer": "Nhato",
+      "pack": "liminal_eclipse",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "ANDORXOR",
+      "composer": "Sobrem",
+      "pack": "liminal_eclipse",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "Undying Macula",
+      "composer": "Ashrount",
+      "pack": "liminal_eclipse",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8+",
+        "ftr": "10",
+        "etr": "11"
+      }
+    }
+  ]
+}

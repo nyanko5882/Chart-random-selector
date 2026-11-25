@@ -1,0 +1,58 @@
+{
+  "id": "absolute_reason",
+  "name": "Absolute Reason",
+  "songs": [
+    {
+      "title": "Antithese",
+      "composer": "Blacklolita",
+      "pack": "absolute_reason",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8+",
+        "byd": "9"
+      }
+    },
+    {
+      "title": "Black Territory",
+      "composer": "DJ Myosuke",
+      "pack": "absolute_reason",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Corruption",
+      "composer": "3R2",
+      "pack": "absolute_reason",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9+"
+      }
+    },
+    {
+      "title": "Vicious Heroism",
+      "composer": "Kobaryo",
+      "pack": "absolute_reason",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10",
+        "byd": "11"
+      }
+    },
+    {
+      "title": "Cyaegha",
+      "composer": "USAO",
+      "pack": "absolute_reason",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "10+"
+      }
+    }
+  ]
+}

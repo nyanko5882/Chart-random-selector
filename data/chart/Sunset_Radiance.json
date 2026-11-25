@@ -1,0 +1,66 @@
+{
+  "id": "sunset_radiance",
+  "name": "Sunset Radiance",
+  "songs": [
+    {
+      "title": "Chelsea",
+      "composer": "7mai",
+      "pack": "sunset_radiance",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+"
+      }
+    },
+    {
+      "title": "AI[UE]OON",
+      "composer": "MYUKKE.",
+      "pack": "sunset_radiance",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "迷える音色は恋の唄",
+      "composer": "からとPαnchii少年 feat. はるの",
+      "pack": "sunset_radiance",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9"
+      }
+    },
+    {
+      "title": "Tie me down gently",
+      "composer": "溝口ゆうま feat. 大瀬良あい",
+      "pack": "sunset_radiance",
+      "difficulty": {
+        "pst": "3",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Valhalla:0",
+      "composer": "Juggernaut.",
+      "pack": "sunset_radiance",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "蛍火の雪",
+      "composer": "Endorfin.",
+      "pack": "sunset_radiance",
+      "difficulty": {
+        "pst": "3",
+        "prs": "7",
+        "ftr": "9+"
+      }
+    }
+  ]
+}

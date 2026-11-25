@@ -1,0 +1,92 @@
+{
+  "id": "arknights_collaboration",
+  "name": "Arknights Collaboration",
+  "songs": [
+    {
+      "title": "Miss You",
+      "composer": "David Lin, Erik Castro",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "8"
+      }
+    },
+    {
+      "title": "Speed of Light",
+      "composer": "DJ OKAWARI, 二宮愛",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "2",
+        "prs": "5",
+        "ftr": "7+",
+        "etr": "9"
+      }
+    },
+    {
+      "title": "Fading Sky",
+      "composer": "AJURIKA",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8",
+        "etr": "9+"
+      }
+    },
+    {
+      "title": "Radiant",
+      "composer": "Mary Clare, Erik Castro",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "3",
+        "prs": "6",
+        "ftr": "8+",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "ALIVE",
+      "composer": "Obadiah Brown-Beach,Cristina Vee",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7+",
+        "ftr": "10"
+      }
+    },
+    {
+      "title": "......已至。",
+      "composer": "秋田真典",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10"
+      }
+    },
+    {
+      "title": "Operation SpectrumBattle Theme",
+      "composer": "cybermiso, DOT96, tigerlily",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "4",
+        "prs": "7",
+        "ftr": "9",
+        "etr": "10+"
+      }
+    },
+    {
+      "title": "Somniomancer [null set]",
+      "composer": "Crywolf",
+      "pack": "arknights_collaboration",
+      "difficulty": {
+        "pst": "5",
+        "prs": "8",
+        "ftr": "9+",
+        "etr": "10+"
+      }
+    }
+  ]
+}
